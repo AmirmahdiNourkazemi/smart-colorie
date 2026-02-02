@@ -1,1 +1,2 @@
+- fix: add sectets
 - fix: build update
