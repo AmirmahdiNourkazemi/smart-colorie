@@ -1,2 +1,152 @@
+- vr 50
+- feat: add mobile number user appbar
+- feat: implement pop in search with camera
+- feat: nested scroll view added to search camera
+- feat: add image from gallary added
+- fix: remove meal report fixed
 - fix: add sectets
 - fix: build update
+- fix: use gh cli
+- fix: flutter-build.yml fixed
+- feat: private and public release is created
+- feat: Update workflow to publish APK to public repo
+- feat: update flutter-build.yml
+- feat: update vr
+- feat: add to release
+- feat: release with tag
+- fix: remove org.gradle.java.home
+- feat: add git flutter-build.yml
+- feat: text theme change
+- feat: pin and unpin
+- feat: pin and unpin for meal
+- feat: save,remove,get meal
+- feat:activity exercise done
+- feat: show pinned in list
+- feat: remove pin
+- feat: add pin exercise
+- feat: change vr
+- fix: payment login fixed
+- fix: some changes are happend
+- feat: change vr
+- feat: video full screen update
+- feat: height character is fixed
+- fix: download pdf fixed
+- feat: ndk change
+- feat: change vr dep
+- fix: 16kb
+- feat: change ndk
+- feat: add ndk
+- feat: change vr46
+- fix: login issue
+- feat: add ndk abi
+- feat: add ndk abi
+- feat: add ndk abi
+- feat: change build.gradlew
+- feat: add scroll to end history
+- fix: ndk change
+- fix
+- fix
+- fix: version flutter fixed
+- feat: flutter v3.38
+- feat: update gradlew
+- fix: show video
+- feat: see video in drawer
+- feat: limit to see video
+- fix: time update activity fixed
+- feat: change style show food
+- fix: delete unused files
+- feat: add logout dialog
+- feat: add video
+- fix: ui char and report fixed
+- fix: water consume fixed
+- feat: implement camera
+- fix: height date picker horizontal fixed
+- feat: change fonts & search success
+- fix: navigate to intro
+- fix: show activity sort
+- feat: change vr 41.0.1-GP+42
+- fix: show product fixed
+- style: change border button color
+- feat: add video
+- feat: add push message && premium widget
+- fix: problem with custom text filled with font
+- style: remove app bar from product screen
+- style: fix dark mode style
+- feat: subscription screen implemented
+- Merge pull request #13 from AmirmahdiNourkazemi/feat/update-flutter
+- feat: sort activity builder
+- feat: update to latest flutter 3.29
+- feat: increase weight chat bot
+- feat: add increase weight diet
+- fix: camare result fixed
+- feat: height standing character added
+- feat: add height widget character
+- fix: some bugs fixed
+- fix: overflow fixed
+- feat: scroll for chart
+- fix: store weight history
+- Merge pull request #12 from AmirmahdiNourkazemi/feat/redesign
+- feat: manage back button
+- feat: add sub stack for screens
+- feat: horizontal date picker scroll fixed
+- feat: add timer for typing
+- fix: remove twice call of get hostories
+- feat: change icon buttom navigation
+- feat: add date picker for store weight
+- feat: add chart tab controller
+- style: redesign ai screen
+- feat: weight chart added
+- feat: initial get user for weight
+- feat: store weight & get history weight
+- feat: compelete report screen
+- feat: add report screen && key
+- fix: some bugs for get history fixed && feat: add buttom navigation
+- fix: color of horizontal data picker fixed with theme
+- feat: change vr 39
+- feat: edit last meal and activity
+- Merge pull request #11 from AmirmahdiNourkazemi/feat/calarity
+- feat: add clarity microsoft
+- fix: remove unused bloc provider.value
+- fix: get physical history fixed
+- feat: change version to vr38
+- Merge pull request #10 from AmirmahdiNourkazemi/feat/diet-detail
+- style: isToday bold style
+- feat: api level 35 added
+- feat:add drop down blood diet
+- feat: limit days to 30 last days
+- feat: params for report in filter selected date
+- feat: save date time in one session
+- feat: date picker horizontal
+- Merge pull request #9 from AmirmahdiNourkazemi/review/diet-screen
+- review: diet detail screen
+- feat: change version 37
+- Merge pull request #8 from AmirmahdiNourkazemi/feat/intro
+- fix: layout for short screen
+- feat: add images
+- Merge branch 'main' into feat/intro
+- feat: add cut diet
+- fix: autofill sms fixed
+- fix: tooltip fixed
+- fix: calculate fixed
+- fix: calculate fixed
+- fix: calculate fixed
+- feat: change vr 36
+- feat: add images
+- style: add new images
+- feat: add diet feature
+- feat: new drop down value
+- feat: colorie Remainder
+- change carefully
+- feat: change vr 34.0.1-GP+35
+- ready for build
+- style: change splash screen
+- fix: delete object box
+- feat: add units
+- feat: vr 33.0.1-GP+34
+- feat: rebuild after add activity
+- fix: save user profile fixed
+- Merge pull request #6 from AmirmahdiNourkazemi/feat/server-side
+- Merge pull request #5 from AmirmahdiNourkazemi/feat/server-side
+- Merge pull request #4 from AmirmahdiNourkazemi/feat/server-side
+- feat: change version to 33
+- Merge pull request #3 from AmirmahdiNourkazemi/feat/server-side
